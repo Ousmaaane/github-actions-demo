@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run tests
-        run: echo "Tests passed ✅"
+        run: echo "Tests passedsssss ✅"
   deploy:
     needs: test
     runs-on: ubuntu-latest
